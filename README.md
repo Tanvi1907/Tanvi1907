@@ -12,81 +12,75 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
 * 🚀 **Role:** DevOps Engineer
-* 🎯 **Core Focus:** Building reliable CI/CD pipelines, containerized architectures, and automated cloud infrastructure.
+* 🎯 **Core Focus:** CI/CD Automation, Cloud Infrastructure as Code, Container Orchestration, and System Reliability.
+* ⚡ **Methodologies:** Agile & Scrum frameworks, Sprint Planning, Kanban delivery, and Git-integrated ticketing.
 * 🌐 **Portfolio:** [tanvi1907.github.io/tanvi-devops-portfolio](https://tanvi1907.github.io/tanvi-devops-portfolio/)
-* 💼 **Mindset:** Automate manual operations, enforce repeatability, and ensure seamless production deployments.
+* 💼 **Mindset:** Automate repetitive tasks, standardize delivery pipelines, and ensure zero-downtime releases.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Methodologies
 
 #### ☁️ Cloud & Infrastructure as Code
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="45" height="45"/>
 </p>
 
 #### 🔄 CI/CD & Version Control
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
 #### 🐳 Containers & Observability
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="45" height="45"/>
 </p>
 
-#### 💻 OS, Scripting & Workflow
+#### 💻 OS, Scripting, API Testing & Agile Delivery
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="RHEL" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="48" height="48"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="RHEL" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
 </p>
+
+> **Practices:** Agile / Scrum • Sprint Planning • Kanban Workflows • Jira Issue Tracking • REST API Testing (Postman) • Linux Automation
 
 ---
 
 ### 📌 Featured Repositories
 
 - 🚀 [**jenkins-docker-static-website**](https://github.com/Tanvi1907/jenkins-docker-static-website)  
-  Automated CI/CD pipeline building static websites into Docker images and deploying on AWS EC2.
+  Automated CI/CD pipeline building static applications into container images and deploying to AWS EC2.
 - ☁️ [**Terraform-project-to-create-AWS-EC2-instances**](https://github.com/Tanvi1907/Terraform-project-to-create-AWS-EC2-instances-using-reusable-modules)  
-  Provisioning modular AWS infrastructure using Terraform reusable modules.
+  Production-style declarative Infrastructure as Code using reusable Terraform modules.
 - 📦 [**aws-ecr-demo**](https://github.com/Tanvi1907/aws-ecr-demo)  
-  Building, tagging, and managing container images with Amazon Elastic Container Registry (ECR).
+  Container lifecycle workflow: automated building, tagging, and pushing images to AWS ECR.
 - 🛡️ [**linux-backup-automation**](https://github.com/Tanvi1907/linux-backup-automation)  
-  Automated Linux server backup solutions using Bash scripts and cron jobs.
+  Automated Linux backup and archive tasks using Bash scripting and cron scheduling.
 - 🐳 [**docker-nodejs-aws-ec2-project**](https://github.com/Tanvi1907/docker-nodejs-aws-ec2-project)  
-  Containerizing Node.js applications and hosting on cloud compute.
+  Multi-container Node.js deployment on AWS cloud instances with isolated runtime environments.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvi1907&theme=github" alt="Tanvi's GitHub Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tanvi1907&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanvi's Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tanvi1907&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563eb/Tanvi1907" alt="Tanvi's Github Chart" />
+  <img src="https://ghchart.rshah.org/2563eb/Tanvi1907" alt="Tanvi's Github Activity Chart" />
 </p>
