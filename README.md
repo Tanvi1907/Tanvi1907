@@ -79,12 +79,14 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvi1907&show_icons=true&theme=default&hide_border=false" alt="Tanvi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi1907&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvi1907&theme=github" alt="Tanvi's GitHub Details" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tanvi1907&show_icons=true&theme=tokyonight&hide_border=true" alt="Tanvi's Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tanvi1907&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
-  Connect on GitHub: <a href="https://github.com/Tanvi1907">@Tanvi1907</a> | Email: <a href="mailto:rastogitanvi.29@gmail.com">rastogitanvi.29@gmail.com</a>
+  <img src="https://ghchart.rshah.org/2563eb/Tanvi1907" alt="Tanvi's Github Chart" />
 </p>
