@@ -11,7 +11,7 @@ DevOps Engineer focused on automating software delivery lifecycles, cloud infras
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42"/> &nbsp;
+ <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="42" height="42"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="42" height="42"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="42" height="42"/> &nbsp;
